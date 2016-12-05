@@ -4,6 +4,7 @@
     cd my-app/
     npm eject
     git clone https://github.com/ROXy10/hello-webpack.git    
+    npm i
     npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
